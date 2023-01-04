@@ -1,0 +1,60 @@
+body{
+    margin: 0%;
+}
+
+#header{
+    background: rgb(179, 206, 206);
+    height: 55px;
+    width: auto;
+    border: 1px solid #cdcdcd;
+    margin-bottom: 5px;
+}
+
+#div1{
+    background-color: rgb(255, 255, 255) ;
+    height: auto;
+    width: 100%;
+    border: 5px solid #cdcdcd;
+    margin-bottom: 5px;
+}
+
+.pig{
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.pig li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+
+#chi{
+    min-height: auto;
+    width: 20%;
+    border: 5px solid #cdcdcd;
+    float: left;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#ha{
+    min-height: 400px;
+    width: 1000px;
+    float: left;
+    border: 5px solid #cdcdcd;
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+
+}
+#footer{
+  border: 5px solid #cdcdcd;
+  margin-bottom: 5px;
+  clear: both;
+  text-align: center;
+}
